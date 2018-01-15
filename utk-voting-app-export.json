@@ -1,0 +1,27 @@
+{
+  "app-name" : "Cafeteria Voting App",
+  "fruits" : {
+    "apple" : {
+      "name" : "Apple",
+      "votes" : 2
+    },
+    "banana" : {
+      "name" : "Banana",
+      "votes" : 1
+    },
+    "orange" : {
+      "name" : "Orange",
+      "votes" : 1
+    }
+  },
+  "users" : {
+    "u0" : {
+      "name" : "John Doe",
+      "votes" : [ "apple", "orange" ]
+    },
+    "u1" : {
+      "name" : "Jane Doe",
+      "votes" : [ "apple", "banana" ]
+    }
+  }
+}
